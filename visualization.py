@@ -19,6 +19,15 @@ d3.movingbubbles(
 # 0 = Dylan
 # 1 = Clara
 # 2 = Justin
+# 3 = Benji
+# 4 = Kevin
+# 5 = Izzy
+# 6 = Vanessa
+# 7 = Sydney
+# 8 = Mikayla
+# 9 = Kaylin
+# 10 = Dan
+# 11 = Raj
 
 
 # Meeting
@@ -34,3 +43,4 @@ d3.movingbubbles(
 # Having a Crisis
 # Getting Drunk
 # DTI Stuff
+# Coffee Chat
